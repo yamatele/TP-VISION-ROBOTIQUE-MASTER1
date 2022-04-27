@@ -1,0 +1,23 @@
+population 5000
+generations 100000
+pimmigration 1
+pmutationposition 2
+pmutationradius  2
+pcrossover 0
+mutability of position 4
+mutability of radius 2
+minradius 4
+maxradius 11
+samples 20
+number of circles 60
+sharingradius 12
+edge 0
+contrast 0
+homogeneity 0
+darkness 0
+prefdiameter 20
+border 30
+
+
+
+

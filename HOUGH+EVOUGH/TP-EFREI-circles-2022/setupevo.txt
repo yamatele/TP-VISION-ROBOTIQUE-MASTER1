@@ -1,0 +1,15 @@
+imageRead Salamanca.pbm
+generations 2000
+threshold 0
+temperature 1000
+population 10
+samples 50
+cooling 100
+percentage_elitist 0.5
+prob_mutation 0.3
+crossover 0.1
+max_iteratiosn 50
+used_algorithm 1
+draw_by 2
+n_best 5
+

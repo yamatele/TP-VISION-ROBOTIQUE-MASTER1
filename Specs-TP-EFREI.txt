@@ -1,0 +1,13 @@
+Specifications pour le compte-rendu de TP
+-monome ou binome
+-date limite du compte rendu: le samedi qui suit le DE
+-envoyer à
+jean.louchet@gmail.com
+-document au format .pdf (je ne veux ni .doc ni .docx ni .rar)
+-si documents joints (images, code...) trop gros pour inclure dans le corps du compte-rendu, mettre le tout dans une archve .zip
+-nom du document:
+  TP-EFREI-VROB-Dupont-Durand.pdf
+(en remplaçant Dupont et Durand par vos noms évidemment)
+-typiquement 4 à 6 pages, au besoin un peu plus s'il y a beaucoup d'images à montrer
+
+Pour nous ce sera un compte-rendu incluant votre travail sur hough, evough et la détection de cercles.

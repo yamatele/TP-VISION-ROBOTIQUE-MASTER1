@@ -1,0 +1,13 @@
+seuil 80
+population 2000
+generations 2000
+pmutation 40
+pcrossover 1
+mutabilite ro 5
+mutabilite theta 5
+samples 40
+exigence .5
+coeff 100
+
+
+
